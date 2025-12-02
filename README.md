@@ -26,6 +26,20 @@ It has one clickable rotary encoder (used to control music or other media) and (
 | 3D Printed Knob for the encoder | 1 |
 | Keycaps | 15 |
 
+## Screenshots
+
+Schematic (extra button just in case and to not break 4x4 structure):
+
+![schem](https://i.ibb.co/Fqf5jZwC/image.png)
+
+Case (no top part to show the internals for a better style):
+
+![case](https://i.ibb.co/TDFn8xvw/image.png)
+
+PCB:
+
+![pcb](https://i.ibb.co/b5fqH8sq/image.png)
+
 ### Tools Required
 
 - Soldering iron (temperature controlled recommended)
