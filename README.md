@@ -30,15 +30,15 @@ It has one clickable rotary encoder (used to control music or other media) and (
 
 Schematic (extra button just in case and to not break 4x4 structure):
 
-![schem](https://i.ibb.co/Fqf5jZwC/image.png)
+![schem](https://hc-cdn.hel1.your-objectstorage.com/s/v3/05f8c9525a0f34a865e9f09e2c8b13cb693d316e_image.png)
 
 CAD:
 
-![case](https://i.ibb.co/TDFn8xvw/image.png)
+![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c665f4070628efd7d3af828a2785aee71abaa40_image.png)
 
 PCB:
 
-![pcb](https://i.ibb.co/b5fqH8sq/image.png)
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/220af71976f05f3ff0b9532594660a1949670c24_image.png)
 
 ### Tools Required
 
