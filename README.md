@@ -32,7 +32,7 @@ Schematic (extra button just in case and to not break 4x4 structure):
 
 ![schem](https://i.ibb.co/Fqf5jZwC/image.png)
 
-Case (no top part to show the internals for a better style):
+CAD:
 
 ![case](https://i.ibb.co/TDFn8xvw/image.png)
 
