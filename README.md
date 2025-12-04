@@ -36,7 +36,11 @@ CAD:
 
 ![case](https://hc-cdn.hel1.your-objectstorage.com/s/v3/3c665f4070628efd7d3af828a2785aee71abaa40_image.png)
 
-PCB:
+PCB (design):
+
+![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/c49f1855c41eccff80d7af8b34057965c49b5c69_image.png)
+
+PCB (3D):
 
 ![pcb](https://hc-cdn.hel1.your-objectstorage.com/s/v3/220af71976f05f3ff0b9532594660a1949670c24_image.png)
 
